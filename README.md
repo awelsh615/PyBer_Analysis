@@ -13,12 +13,16 @@ In this analysis in particular, the goal was to create compelling visualizations
 
 ## Results
 ### Summary
-As seen in the summary DataFrame below, there are stark differences in total rides, drivers and fares based on city type.
+As seen in the summary DataFrame below, there are stark differences in PyBer metrics based on city type.  For example, total rides, total drivers and total fares are markedly higher in urban cities than suburban or rural.  Rural cities, predictably, have the lowest number of available drivers, rides and bring in the least revenue.
 
 ![Summary DataFrame](Analysis/Summary_DataFrame.PNG)
 
+Noticably, the average fare per driver is highest in rural areas.  So while there are fewer riders, and fewer drivers, the drivers in these cities are not only charging more per ride (perhaps because of longer distances?) but are also earning more per driver than in other city types.
 
-Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types
+Perhaps due to the large number of drivers in urban cities (almost three times suburban cities), the average fare per driver is significantly lower then the average fare per ride.
 
+Total Fares were studied by City Type for the months between January 2019 and April 2019.  The line chart below shows the total fares by city type for this four-month time period.
+
+![Total Fare by City Type](
 ### Recommendations
 Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
