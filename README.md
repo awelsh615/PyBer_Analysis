@@ -23,6 +23,6 @@ Perhaps due to the large number of drivers in urban cities (almost three times s
 
 Total Fares were studied by City Type for the months between January 2019 and April 2019.  The line chart below shows the total fares by city type for this four-month time period.
 
-![Total Fare by City Type](
+![Total Fare by City Type](Analysis/Total_Fare_by_City_Type.png)
 ### Recommendations
 Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
