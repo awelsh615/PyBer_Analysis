@@ -25,4 +25,7 @@ Total Fares were studied by City Type for the months between January 2019 and Ap
 
 ![Total Fare by City Type](Analysis/Total_Fare_by_City_Type.png)
 ### Recommendations
-Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+Here are three conclusions and recommendations I see from the data:
+- Suburban fares seem to increase at the end of April, while fares in both rural and urban cities remain relatively constant.  I would recommend PyBer consider incentivizing driving during the Spring months to capitolize on the increase in revenue.
+- Rural communities in particular seem to be underserved.  Perhaps there are fewer total rides because there are fewer ride requests, but it would be interesting to investigate how many ride requests remain unfulfilled because of a limited number of drivers.  Especially because the average fare per ride is the highest for this city type, this could be a potentially untapped source of additional revenue.
+- Urban areas are the only city type where the Average Fare per Driver is lower than the Average Fare per Ride.  That is also the most revenue-producing city type.  Pyber may want to investigate the cause of this anomoly and make sure that drivers are being compensated fairly.
