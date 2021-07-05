@@ -15,7 +15,7 @@ In this analysis in particular, the goal was to create compelling visualizations
 ### Summary
 As seen in the summary DataFrame below, there are stark differences in total rides, drivers and fares based on city type.
 
-
+![Summary DataFrame](Analysis/Summary_DataFrame.PNG)
 
 
 Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types
